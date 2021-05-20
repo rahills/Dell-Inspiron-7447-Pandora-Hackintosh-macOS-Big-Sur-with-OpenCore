@@ -3,7 +3,7 @@
 # How to use it
 Replace/Copy the EFI folder in your EFI partition.
 
-#Download
+# Download
 https://github.com/rahills/Dell-Inspiron-7447-Pandora-Hackintosh-macOS-Big-Sur-with-OpenCore/releases/tag/v1.0
 
 <img src="https://i.ibb.co/5BnBGQT/Screen-Shot-2021-05-20-at-7-36-38-PM.png" alt="Screen-Shot-2021-05-20-at-7-36-38-PM" border="0">
