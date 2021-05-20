@@ -1,0 +1,1 @@
+# Dell-Inspiron-7447-Pandora-Hackintosh-macOS-Big-Sur-with-OpenCore
