@@ -3,11 +3,27 @@
 # How to use it
 Replace/Copy the EFI folder in your EFI partition.
 
+# My System
+Intel Core i5 4210H
+Intel HD Graphics 4600
+Nvidia Geforce GTX 850M 4GB DDR3
+16GB 1600Mhz DDR3 RAM
+Samsung 850 Evo 250GB (Windows 10)
+ADATA SU 750 256GB (macOS Big Sur)
+Intel Wireless AC 3160
+Realtek ALC 255
+
 # Download
 https://github.com/rahills/Dell-Inspiron-7447-Pandora-Hackintosh-macOS-Big-Sur-with-OpenCore/releases/
 
-# Screenshots
+# Screenshots (New, from Big Sur 11.5)
 
+<img src="https://i.ibb.co/VWwdx1K/Screen-Shot-2021-05-22-at-3-17-10-AM.png" alt="Screen-Shot-2021-05-22-at-3-17-10-AM" border="0">
+
+<img src="https://i.ibb.co/tBkCYP3/Screen-Shot-2021-05-22-at-3-32-39-AM.png" alt="Screen-Shot-2021-05-22-at-3-32-39-AM" border="0"
+     
+# Screenshots (Old, from Big Sur 11.2)     
+     
 <img src="https://i.ibb.co/VvCv4Nt/Screen-Shot-2021-05-21-at-12-39-37-AM.png" alt="Screen-Shot-2021-05-21-at-12-39-37-AM" border="0">
 
 <img src="https://i.ibb.co/KXjBRKt/Screen-Shot-2021-05-21-at-12-38-58-AM.png" alt="Screen-Shot-2021-05-21-at-12-38-58-AM" border="0">
