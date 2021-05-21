@@ -4,13 +4,21 @@
 Replace/Copy the EFI folder in your EFI partition.
 
 # My System
+
 Intel Core i5 4210H
+
 Intel HD Graphics 4600
+
 Nvidia Geforce GTX 850M 4GB DDR3
+
 16GB 1600Mhz DDR3 RAM
+
 Samsung 850 Evo 250GB (Windows 10)
+
 ADATA SU 750 256GB (macOS Big Sur)
+
 Intel Wireless AC 3160
+
 Realtek ALC 255
 
 # Download
