@@ -28,7 +28,7 @@ https://github.com/rahills/Dell-Inspiron-7447-Pandora-Hackintosh-macOS-Big-Sur-w
 
 <img src="https://i.ibb.co/VWwdx1K/Screen-Shot-2021-05-22-at-3-17-10-AM.png" alt="Screen-Shot-2021-05-22-at-3-17-10-AM" border="0">
 
-<img src="https://i.ibb.co/tBkCYP3/Screen-Shot-2021-05-22-at-3-32-39-AM.png" alt="Screen-Shot-2021-05-22-at-3-32-39-AM" border="0"
+<img src="https://i.ibb.co/tBkCYP3/Screen-Shot-2021-05-22-at-3-32-39-AM.png" alt="Screen-Shot-2021-05-22-at-3-32-39-AM" border="0">
      
 # Screenshots (Old, from Big Sur 11.2)     
      
