@@ -41,7 +41,7 @@ Wi-Fi (using Heliport App, as login item)
 
 Bluetooth (out of the box)
 
-Battery indicator
+Battery Indicator
 
 Display Brightness Control
 
