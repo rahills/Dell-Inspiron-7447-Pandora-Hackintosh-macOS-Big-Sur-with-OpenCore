@@ -19,9 +19,33 @@ Samsung 850 Evo 250GB (Windows 10)
 
 ADATA SU 750 256GB (macOS Big Sur)
 
-Intel Wireless AC 3160
+Intel Wireless AC 3160 Wi-Fi+Bluetooth
 
-Realtek ALC 255
+Realtek ALC 255 Audio
+
+Realtek RTL8111 Ethernet
+
+# What's working
+
+Sleep+Awake
+
+Full QE/CI Acceleration of Intel HD Graphics 4600
+
+Excellent Audio Quality
+
+Excellent Trackpad Support, supports all two and three finger gestures
+
+Multimedia Keys (except F11 F12 Brightness keys, better use Karabiner-Elements)
+
+Wi-Fi (using Heliport App, as login item)
+
+Bluetooth (out of the box)
+
+Battery indicator
+
+# What's not working (not tested)
+
+Apple services (FaceTime, iMessage etc.) Please follow dortania tutorial to fix. 
 
 # Download
 https://github.com/rahills/Dell-Inspiron-7447-Pandora-Hackintosh-macOS-Big-Sur-with-OpenCore/releases/
