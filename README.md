@@ -11,6 +11,8 @@ Intel HD Graphics 4600
 
 Nvidia Geforce GTX 850M 4GB DDR3
 
+14" Display, Resolution: 1366x768 Pixels
+
 16GB 1600Mhz DDR3 RAM
 
 Samsung 850 Evo 250GB (Windows 10)
