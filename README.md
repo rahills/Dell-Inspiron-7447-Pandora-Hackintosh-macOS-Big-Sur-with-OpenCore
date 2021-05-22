@@ -25,7 +25,7 @@ Realtek ALC 255 Audio
 
 Realtek RTL8111 Ethernet
 
-# What's working
+# What's working (Fully tested)
 
 Sleep+Awake
 
@@ -35,7 +35,7 @@ Excellent Audio Quality
 
 Excellent Trackpad Support, supports all two, three and four finger gestures
 
-Multimedia Keys (except F11 F12 Brightness keys, better use Karabiner-Elements)
+Multimedia Keys (except F11 F12 Display Brightness keys, better use Karabiner-Elements)
 
 Wi-Fi (using Heliport App, as login item)
 
@@ -43,9 +43,27 @@ Bluetooth (out of the box)
 
 Battery indicator
 
-# What's not working (not tested)
+Display Brightness Control
 
-Apple services (FaceTime, iMessage etc.) Please follow dortania tutorial to fix. 
+Webcam
+
+Card Reader
+
+2x USB 3.0 Ports
+
+3x USB 2.0 Ports
+
+HDMI Out
+
+HDMI Audio
+
+3.5mm Jack
+
+# What's not working (+not tested)
+
+Apple services (Siri, FaceTime, iMessage etc.) Please follow dortania tutorial to fix.
+
+Obviously Nvidia GeForce GTX 850M card 
 
 # Download
 https://github.com/rahills/Dell-Inspiron-7447-Pandora-Hackintosh-macOS-Big-Sur-with-OpenCore/releases/
