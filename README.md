@@ -33,7 +33,7 @@ Full QE/CI Acceleration of Intel HD Graphics 4600
 
 Excellent Audio Quality
 
-Excellent Trackpad Support, supports all two, three and four finger gestures
+Excellent Touchpad (Trackpad) Support, supports all one, two, three and four finger gestures and inputs
 
 Multimedia Keys (except F11 F12 Display Brightness keys, better use Karabiner-Elements)
 
