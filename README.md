@@ -61,7 +61,7 @@ HDMI Audio
 
 # What's not working (+not tested)
 
-Apple services (Siri, FaceTime, iMessage etc.) Please follow dortania tutorial to fix.
+Apple services (Siri, FaceTime, iMessage etc.) Please follow Dortania's guide to fix it.
 
 Obviously Nvidia GeForce GTX 850M card 
 
